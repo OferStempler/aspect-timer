@@ -1,0 +1,8 @@
+server:
+   port: 8080
+
+logging:
+  level:
+    ofer.stempler.: DEBUG
+    
+  file: C:\apps\timer\timer.txt
